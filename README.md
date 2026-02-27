@@ -24,7 +24,7 @@ quando comparadas a modelos evolutivos mais robustos.
 Para ver o projeto você pode acessar os arquivos abaixo:
 - [Relatório do Projeto]()
 - [Códigos desenvolvidos](https://github.com/giovana2005/arvores_filogeneticas_metricas/blob/main/C%C3%B3digos.ipynb)
-- [Sequências Utilizadas]()
+- [Sequências Utilizadas](https://github.com/giovana2005/arvores_filogeneticas_metricas/blob/main/Sequ%C3%AAncias.fasta)
 
 ## 👩‍💻Desenvolvedoras do Projeto
 
